@@ -84,6 +84,8 @@ The findings describe patterns and associations in the available dataset and do 
 - Created DAX measures for business KPIs.
 - Added time-based analysis using a dedicated date table.
 
+📊 **[Download the Power BI Dashboard](Powerbi/Olist_PowerBI_Dashboard/Olist_PowerBI_Dashboard.pbix)**
+
 ## Project Workflow
 
 1. Data understanding and table-grain identification
