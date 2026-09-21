@@ -1,4 +1,9 @@
-# Olist Brazilian E-Commerce: Delivery Performance, Freight Value & Customer Experience Analysis
+# Olist Brazilian E-Commerce: Delivery Performance, Freight Value & Customer Experience Analysis 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 ## Project Overview
 
