@@ -24,7 +24,7 @@ This project investigates the following business questions:
 
 ## Dataset
 
-The project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
+The project uses the Brazilian E-Commerce Public Dataset by Olist.
 
 The dataset contains anonymized e-commerce information related to:
 
@@ -67,7 +67,7 @@ The findings describe patterns and associations in the available dataset and do 
 ### 3. Excel
 
 - Created business-oriented KPI summaries.
-- Reviewed freight, delivery, customer, and state-level information.
+- Reviewed freight, delivery, customer, state, and category-level information.
 - Performed management-style exploratory analysis and validation.
 
 ### 4. Power BI
@@ -93,7 +93,11 @@ The findings describe patterns and associations in the available dataset and do 
 ## Project Structure
 
 ```text
-olist-ecommerce-analytics/
+swiftcart-margin-under-pressure/
+│
+├── Data/
+│   ├── Raw dataset files
+│   └── Prepared analysis tables
 │
 ├── Python/
 │   └── Python analysis scripts
@@ -123,8 +127,6 @@ olist-ecommerce-analytics/
 ├── requirements.txt
 └── .gitignore
 ```
-
-> The raw and prepared datasets are excluded from the repository because of file-size and data-management considerations.
 
 ## Key Findings
 
@@ -173,6 +175,19 @@ The project includes a three-page Power BI dashboard.
 - Freight value trend
 
 > **Note:** Dashboard screenshots are available in the `screenshots/` folder.
+## Dashboard Preview
+
+### Page 1 — Executive Overview
+
+![Executive Overview](screenshots/1%20Executive%20Overview.PNG)
+
+### Page 2 — Delivery & Customer Experience
+
+![Delivery and Customer Experience](screenshots/2%20Delivery%20%26%20Customer%20Experience.PNG)
+
+### Page 3 — Freight & Business Pressure
+
+![Freight and Business Pressure](screenshots/3%20Freight%20%26%20Business%20Pressure.PNG)
 
 ## Project Limitations
 
