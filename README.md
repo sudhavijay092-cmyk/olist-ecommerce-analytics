@@ -24,7 +24,7 @@ This project investigates the following business questions:
 
 ## Dataset
 
-The project uses the Brazilian E-Commerce Public Dataset by Olist.
+The project uses the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 The dataset contains anonymized e-commerce information related to:
 
@@ -67,7 +67,7 @@ The findings describe patterns and associations in the available dataset and do 
 ### 3. Excel
 
 - Created business-oriented KPI summaries.
-- Reviewed freight, delivery, customer, state, and category-level information.
+- Reviewed freight, delivery, customer, and state-level information.
 - Performed management-style exploratory analysis and validation.
 
 ### 4. Power BI
@@ -93,11 +93,7 @@ The findings describe patterns and associations in the available dataset and do 
 ## Project Structure
 
 ```text
-swiftcart-margin-under-pressure/
-│
-├── Data/
-│   ├── Raw dataset files
-│   └── Prepared analysis tables
+olist-ecommerce-analytics/
 │
 ├── Python/
 │   └── Python analysis scripts
@@ -127,6 +123,8 @@ swiftcart-margin-under-pressure/
 ├── requirements.txt
 └── .gitignore
 ```
+
+> The raw and prepared datasets are excluded from the repository because of file-size and data-management considerations.
 
 ## Key Findings
 
