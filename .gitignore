@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw and generated data
+data/raw_public/
+data/synthetic/
+data/cleaned/
+data/outputs/
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+*.bak
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
